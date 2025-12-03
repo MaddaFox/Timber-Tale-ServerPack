@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Custom assets for the §6Timber & Tale SMP",
+    "pack_format": 71,
+    "supported_formats": {
+      "max_inclusive": 81,
+      "min_inclusive": 46
+    }
+  }
+}
