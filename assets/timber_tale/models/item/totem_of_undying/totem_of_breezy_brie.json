@@ -1,0 +1,6 @@
+{
+  "parent": "timber_tale:item/totem_of_undying/base_alex",
+  "textures": {
+    "1": "timber_tale:item/totem_of_undying/totem_of_breezy_brie"
+  }
+}

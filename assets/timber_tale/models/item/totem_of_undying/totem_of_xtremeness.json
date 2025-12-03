@@ -1,0 +1,6 @@
+{
+  "parent": "timber_tale:item/totem_of_undying/base_steve",
+  "textures": {
+    "1": "timber_tale:item/totem_of_undying/totem_of_xtremeness"
+  }
+}
