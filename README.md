@@ -29,9 +29,9 @@ It is automatically applied when players join the server.
 1. 📂 Place the resource pack in your server's root directory
 2. 📄 Update `server.properties`:
 ```properties
-   resource-pack=
-   resource-pack-sha1=
-   require-resource-pack=true
+resource-pack=https://drive.google.com/uc?export=download&id=1fff1PShMMgqrDBbJ_HBuxh8w8o0Vefi8
+resource-pack-sha1=d0deec75439b6986d1305b7efe44442ec0150a2f
+require-resource-pack=true
 ```
 
 ### 👥 For Players
@@ -40,9 +40,13 @@ The resource pack will be automatically downloaded when you join the Timber & Ta
 **Manual Installation (Optional):**
 1. 📥 Download the latest release from [Releases](../../releases)
 2. 📂 Place in your Minecraft resource packs folder:
-   - 🪟 Windows: `%appdata%\.minecraft\resourcepacks`
-   - 🍎 Mac: `~/Library/Application Support/minecraft/resourcepacks`
-   - 🐧 Linux: `~/.minecraft/resourcepacks`
+   #### For Minecraft Launchers:
+    -  CurseForge: `%appdata%\.cf\minecraft\instances\<Your Instance>\resourcepacks`
+    -  Modrinth: `%appdata%\.modrinth\instances\<Your Instance>\resourcepacks`
+   #### For vanilla Minecraft:
+   -  🪟 Windows: `%appdata%\.minecraft\resourcepacks`
+   -  🍎 Mac: `~/Library/Application Support/minecraft/resourcepacks`
+   -  🐧 Linux: `~/.minecraft/resourcepacks`
 3. ✅ Enable in Minecraft: Options → Resource Packs
 
 ## 🏆 Credits
