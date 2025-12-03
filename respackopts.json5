@@ -1,0 +1,15 @@
+{
+  id: "timber_tale",
+  version: 9,
+  capabilities: ["FileFilter", "DirFilter"],
+  conf: {
+    custom_items: {
+      totem_of_undying: {
+        enabled: true,
+        _list: ["_comment"],
+        totem_of_xtremeness: ["_arrow_left"],
+        totem_of_breezy_brie: ["_arrow_left"]
+      }
+    }
+  }
+}
