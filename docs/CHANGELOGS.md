@@ -7,12 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+### Changed
+
+### Fixed
+
+### Removed
+
 ## [1.0.0] - 2025-12-03
 
 ### Added
 
-- v1.0 Totem of Xtremeness (Totem of Undying)
-- v1.0 Totem of Breezy Brie (Totem of Undying)
+- Totem of Xtremeness (Totem of Undying)
+- Totem of Breezy Brie (Totem of Undying)
 
 [unreleased]: https://github.com/MaddaFox/Timber-Tale-ServerPack/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/MaddaFox/Timber-Tale-ServerPack/releases/tag/v1.0.0
