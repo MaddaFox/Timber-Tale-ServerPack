@@ -29,7 +29,7 @@ It is automatically applied when players join the server.
 1. 📂 Place the resource pack in your server's root directory
 2. 📄 Update `server.properties`:
 ```properties
-resource-pack=https://drive.google.com/uc?export=download&id=1fff1PShMMgqrDBbJ_HBuxh8w8o0Vefi8
+resource-pack= resource-pack=https://drive.google.com/uc?export=download&id=12b98w3_kzC_yxtbMXm9hYFhUsLT64ep1
 resource-pack-sha1=d0deec75439b6986d1305b7efe44442ec0150a2f
 require-resource-pack=true
 ```
