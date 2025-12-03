@@ -1,0 +1,19 @@
+{
+  "rpo.timber_tale": "Timber & Tale SMP",
+
+  "rpo.timber_tale.custom_items": "Custom Items",
+
+  "rpo.timber_tale.custom_items.totem_of_undying": "Totem of Undying",
+  "rpo.timber_tale.custom_items.totem_of_undying.enabled": "Enable Custom Totem of Undying Textures",
+
+  "rpo.timber_tale.custom_items.totem_of_undying._list": "Below is a list of all custom Totem of undying textures.",
+  "rpo.timber_tale.custom_items.totem_of_undying._list._comment": "§e⚠ CaSe SeNsItIvE",
+
+  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_xtremeness": "Totem of Xtremeness",
+  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_xtremeness._arrow_left": "←",
+  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_xtremeness.tooltip": "Apply texture by renaming your Totem of Undying using an anvil",
+
+  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_breezy_brie": "Totem of Breezy Brie",
+  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_breezy_brie._arrow_left": "←",
+  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_breezy_brie.tooltip": "Apply texture by renaming your Totem of Undying using an anvil"
+}
