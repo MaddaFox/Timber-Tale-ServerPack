@@ -12,7 +12,7 @@
         }
       },
       {
-        "when": "Totem of Breezy Brie",
+        "when": "Totem of BreezyBrie",
         "model": {
           "type": "minecraft:model",
           "model": "timber_tale:item/totem_of_undying/totem_of_breezy_brie"
