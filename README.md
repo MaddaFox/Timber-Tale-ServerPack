@@ -3,10 +3,11 @@
 
   <h1>Timber & Tale SMP ServerPack</h1>
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4+-green?style=flat-square&logo=minecraft)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4+-forestgreen?style=flat-square&logo=minecraft)
 ![Pack Format](https://img.shields.io/badge/Pack%20Format-71-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Version-0.0.1a-coral?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.1-coral?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Changelogs-View-100000?style=flat-square&logo=GitHub&logoColor=white&color=linen)](docs/CHANGELOGS.md)
 
 This is the official server resource pack for the [Timber & Tale SMP](https://www.planetminecraft.com/server/timber-amp-tale-smp/) Minecraft server, containing assets used on the server. <br/> 
 It is automatically applied when players join the server.
@@ -18,6 +19,9 @@ It is automatically applied when players join the server.
 
 - ⚙️ Server-specific resource modifications
 - ✨ Custom item textures and models
+- ⚔️ Roleplay-themed assets
+
+📃 For a full list of custom textures, [View the Texture List](docs/TEXTURE_LIST.md).
 
 ## ⚡ Requirements
 
@@ -29,8 +33,8 @@ It is automatically applied when players join the server.
 1. 📂 Place the resource pack in your server's root directory
 2. 📄 Update `server.properties`:
 ```properties
-resource-pack= resource-pack=https://drive.google.com/uc?export=download&id=16Ggr5s52JaK1K6tZpCyOQDsU0LaUJJaK
-resource-pack-sha1=e24791e38fa5049ef603ee4e20aa4c82ab2801d0
+resource-pack=https://download.mc-packs.net/pack/d260b52c231c38a4b1b02c5efcf275219b2341b0.zip
+resource-pack-sha1=d260b52c231c38a4b1b02c5efcf275219b2341b0
 require-resource-pack=true
 ```
 
