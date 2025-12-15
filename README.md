@@ -7,7 +7,7 @@
 ![Pack Format](https://img.shields.io/badge/Pack%20Format-71-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.1-coral?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red?style=flat-square)
-[![GitHub](https://img.shields.io/badge/Changelogs-View-100000?style=flat-square&logo=GitHub&logoColor=white&color=linen)](docs/CHANGELOGS.md)
+[![GitHub](https://img.shields.io/badge/Changelogs-View-100000?style=flat-square&logo=GitHub&logoColor=white&color=cadetblue)](docs/CHANGELOGS.md)
 
 This is the official server resource pack for the [Timber & Tale SMP](https://www.planetminecraft.com/server/timber-amp-tale-smp/) Minecraft server, containing assets used on the server. <br/> 
 It is automatically applied when players join the server.
