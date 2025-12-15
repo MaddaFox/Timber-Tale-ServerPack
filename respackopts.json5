@@ -3,13 +3,20 @@
   version: 9,
   capabilities: ["FileFilter", "DirFilter"],
   conf: {
-    custom_items: {
-      totem_of_undying: {
-        enabled: true,
-        _list: ["_comment"],
-        totem_of_xtremeness: ["_arrow_left"],
-        totem_of_breezy_brie: ["_arrow_left"]
-      }
+    totems: {
+      enabled: true,
+      _list: ["_comment"],
+      totem_of_xtremeness: ["_case"],
+      totem_of_breezy_brie: ["_case"]
+    },
+    hats: {
+      enabled: true,
+      pumpkinblur: true,
+      _list: ["_comment"],
+      antlers: ["_case"],
+      elf_hat: ["_case"],
+      christmas_scarf: ["_case"],
+      santa_hat: ["_case"]
     }
   }
 }
