@@ -1,19 +1,44 @@
 {
   "rpo.timber_tale": "Timber & Tale SMP",
 
-  "rpo.timber_tale.custom_items": "Custom Items",
+  // Categories
+  "rpo.timber_tale.totems": "Totems",
+  "rpo.timber_tale.hats": "Hats",
 
-  "rpo.timber_tale.custom_items.totem_of_undying": "Totem of Undying",
-  "rpo.timber_tale.custom_items.totem_of_undying.enabled": "Enable Custom Totem of Undying Textures",
+  // Totems
+  "rpo.timber_tale.totems.enabled": "Enable Custom Totem of Undying Variants",
+  "rpo.timber_tale.totems._list": "Below is a list of all the custom totem of undying variants",
+  "rpo.timber_tale.totems._list.tooltip": "Base Item: Totem of Undying",
+  "rpo.timber_tale.totems._list._comment": "Anvil Rename",
 
-  "rpo.timber_tale.custom_items.totem_of_undying._list": "Below is a list of all custom Totem of undying textures.",
-  "rpo.timber_tale.custom_items.totem_of_undying._list._comment": "§e⚠ CaSe SeNsItIvE",
+  // Totem of Xtremeness
+  "rpo.timber_tale.totems.totem_of_xtremeness": "Totem of Xtremeness",
+  "rpo.timber_tale.totems.totem_of_xtremeness._case": "§e⚠ CaSe SeNsItIvE",
 
-  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_xtremeness": "Totem of Xtremeness",
-  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_xtremeness._arrow_left": "←",
-  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_xtremeness.tooltip": "Apply texture by renaming your Totem of Undying using an anvil",
+  // Totem of BreezyBrie
+  "rpo.timber_tale.totems.totem_of_breezy_brie": "Totem of BreezyBrie",
+  "rpo.timber_tale.totems.totem_of_breezy_brie._case": "§e⚠ CaSe SeNsItIvE",
 
-  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_breezy_brie": "Totem of Breezy Brie",
-  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_breezy_brie._arrow_left": "←",
-  "rpo.timber_tale.custom_items.totem_of_undying.totem_of_breezy_brie.tooltip": "Apply texture by renaming your Totem of Undying using an anvil"
+  // Hats
+  "rpo.timber_tale.hats.enabled": "Enable Custom Carved Pumpkin (Hat) Variants",
+  "rpo.timber_tale.hats.pumpkinblur": "Remove Pumpkin Overlay",
+  "rpo.timber_tale.hats._list": "Below is a list of all the custom carved pumpkin (hat) variants",
+  "rpo.timber_tale.hats._list.tooltip": "Base Item: Carved Pumpkin",
+  "rpo.timber_tale.hats._list._comment": "Anvil Rename",
+
+  // Antlers
+  "rpo.timber_tale.hats.antlers": "Antlers",
+  "rpo.timber_tale.hats.antlers._case": "§e⚠ CaSe SeNsItIvE",
+
+  // Elf Hat
+  "rpo.timber_tale.hats.elf_hat": "Elf Hat",
+  "rpo.timber_tale.hats.elf_hat._case": "§e⚠ CaSe SeNsItIvE",
+
+  // Christmas Scarf
+  "rpo.timber_tale.hats.christmas_scarf": "Christmas Scarf",
+  "rpo.timber_tale.hats.christmas_scarf._case": "§e⚠ CaSe SeNsItIvE",
+
+  // Santa Hat
+  "rpo.timber_tale.hats.santa_hat": "Santa Hat",
+  "rpo.timber_tale.hats.santa_hat._case": "§e⚠ CaSe SeNsItIvE"
 }
