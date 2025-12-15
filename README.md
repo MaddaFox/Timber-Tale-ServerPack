@@ -35,8 +35,8 @@ It is automatically applied when players join the server.
 2. 📄 Update `server.properties`:
 
 ```properties
-resource-pack=https://download.mc-packs.net/pack/d260b52c231c38a4b1b02c5efcf275219b2341b0.zip
-resource-pack-sha1=d260b52c231c38a4b1b02c5efcf275219b2341b0
+resource-pack=https://download.mc-packs.net/pack/41f3f4db60b765da3e1106ee3743d5b1e2da1c2f.zip
+resource-pack-sha1=41f3f4db60b765da3e1106ee3743d5b1e2da1c2f
 require-resource-pack=true
 ```
 
