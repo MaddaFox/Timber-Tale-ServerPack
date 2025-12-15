@@ -15,12 +15,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-## [1.0.0] - 2025-12-03
+## [1.0.1] - 2025-12-25
+
+> 🎄 Christmas Update
 
 ### Added
 
-- Totem of Xtremeness (Totem of Undying)
-- Totem of Breezy Brie (Totem of Undying)
+- Carved Pumpkin variants:
+  - Antlers
+  - Elf Hat
+  - Christmas Scarf
+  - Santa Hat
 
-[unreleased]: https://github.com/MaddaFox/Timber-Tale-ServerPack/compare/v1.0.0...HEAD
+### Changed
+
+- Totem of Xtremeness texture updated for Christmas
+
+## [1.0.0] - 2025-12-03
+
+> ✨ Initial Release
+
+### Added
+
+- Totem of Undying variants:
+  - Totem of Xtremeness
+  - Totem of Breezy Brie
+
+[unreleased]: https://github.com/MaddaFox/Timber-Tale-ServerPack/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/MaddaFox/Timber-Tale-ServerPack/releases/tag/v1.0.1
 [1.0.0]: https://github.com/MaddaFox/Timber-Tale-ServerPack/releases/tag/v1.0.0
