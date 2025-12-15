@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Antlers",
+        "model": {
+          "type": "minecraft:model",
+          "model": "timber_tale:block/carved_pumpkin/antlers"
+        }
+      },
+      {
+        "when": "Elf Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "timber_tale:block/carved_pumpkin/elf_hat"
+        }
+      },
+      {
+        "when": "Christmas Scarf",
+        "model": {
+          "type": "minecraft:model",
+          "model": "timber_tale:block/carved_pumpkin/christmas_scarf"
+        }
+      },
+      {
+        "when": "Santa Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "timber_tale:block/carved_pumpkin/santa_hat"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin"
+    }
+  }
+}
